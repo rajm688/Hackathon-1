@@ -1,5 +1,5 @@
 // holding API URL in a variable
-const url ="http://makeup-api.herokuapp.com/api/v1/products.json";
+const url ="http://makeup-api.herokuapp.com/api/v1/products.json?";
 //Using Async/await to process API Data
 const fetchData = async ()=>{
     try{
